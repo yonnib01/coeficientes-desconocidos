@@ -1,6 +1,8 @@
 # -*- coding: cp1252 -*-
 #Vidal Ramos 8-917-97
 #Pailiber Smith 8-855-1845
+#Jonathan Bultrón 8-929-2392
+
 from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtWidgets import QMessageBox
 import numpy as np # Importamos numpy como el alias np
